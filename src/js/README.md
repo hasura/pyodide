@@ -2,6 +2,9 @@
 
 <a href="https://www.npmjs.com/package/pyodide"><img src="https://img.shields.io/npm/v/pyodide" alt="npm"></a>
 
+> [!NOTE]
+> This is a fork of pyodide at v0.29.3 with the changes from [this PR](https://github.com/pyodide/pyodide/pull/6217) merged in.
+
 ## Usage
 
 Download and extract Pyodide packages from [Github

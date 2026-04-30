@@ -13,6 +13,7 @@ Pyodide is a Python distribution for the browser and Node.js based on WebAssembl
 
 > [!NOTE]
 > This is a fork of pyodide at v0.29.3 with the changes from [this PR](https://github.com/pyodide/pyodide/pull/6217) merged in.
+> Built by using `./run_docker` and running `ENABLE_PREBUILT_PACKAGES=1 make` and then `./tools/deploy_to_npm.sh`
 
 ## What is Pyodide?
 
