@@ -11,6 +11,9 @@
 
 Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
 
+> [!NOTE]
+> This is a fork of pyodide at v0.29.3 with the changes from [this PR](https://github.com/pyodide/pyodide/pull/6217) merged in.
+
 ## What is Pyodide?
 
 Pyodide is a port of CPython to WebAssembly/[Emscripten](https://emscripten.org/).
